@@ -1,0 +1,48 @@
+{
+  "_args": [
+    [
+      "git+https://dev-vdt:senhadogitdodev-vdt@github.com/devops-vdt/libs.git#fd44fe17e8c1af3ef171faae11e55f3862578d25",
+      "D:\\Renan\\dev\\vdt\\finance"
+    ]
+  ],
+  "_from": "git+https://dev-vdt:senhadogitdodev-vdt@github.com/devops-vdt/libs.git#fd44fe17e8c1af3ef171faae11e55f3862578d25",
+  "_id": "way-libs@git+https://dev-vdt:senhadogitdodev-vdt@github.com/devops-vdt/libs.git#fd44fe17e8c1af3ef171faae11e55f3862578d25",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/way-libs",
+  "_phantomChildren": {
+    "type-fest": "0.3.1"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://dev-vdt:senhadogitdodev-vdt@github.com/devops-vdt/libs.git#fd44fe17e8c1af3ef171faae11e55f3862578d25",
+    "rawSpec": "git+https://dev-vdt:senhadogitdodev-vdt@github.com/devops-vdt/libs.git#fd44fe17e8c1af3ef171faae11e55f3862578d25",
+    "saveSpec": "git+https://dev-vdt:senhadogitdodev-vdt@github.com/devops-vdt/libs.git#fd44fe17e8c1af3ef171faae11e55f3862578d25",
+    "fetchSpec": "https://dev-vdt:senhadogitdodev-vdt@github.com/devops-vdt/libs.git",
+    "gitCommittish": "fd44fe17e8c1af3ef171faae11e55f3862578d25"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://dev-vdt:senhadogitdodev-vdt@github.com/devops-vdt/libs.git#fd44fe17e8c1af3ef171faae11e55f3862578d25",
+  "_spec": "git+https://dev-vdt:senhadogitdodev-vdt@github.com/devops-vdt/libs.git#fd44fe17e8c1af3ef171faae11e55f3862578d25",
+  "_where": "D:\\Renan\\dev\\vdt\\finance",
+  "author": "",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "joi": "^14.3.1",
+    "joi-date-extensions": "^1.2.0",
+    "serialize-error": "^4.1.0"
+  },
+  "description": "libs for vadetaxi nodejs",
+  "devDependencies": {
+    "@types/node": "^12.0.3"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "way-libs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
